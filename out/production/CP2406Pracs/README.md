@@ -1,1 +1,1 @@
-cp2406_farrell8_ch03
+cp2406_farrell8_ch02
