@@ -2,37 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac733008-4187-429b-8e19-98c561a1800f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/.idea/cp2406_farrell8_ch02.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/.idea/cp2406_farrell8_ch03.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/AirlineDialog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/ComputeCommission.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/DeclareTwoEmployees.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/DemoRaise.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/Employee.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/First.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/GetUserInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/GetUserInfo2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/GetUserInfo3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/HelloNameDialog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/HelloThereNewLine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/HelloTherePrintlnTwice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/ImprecisionDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/MethodsThatUseAnEmployee.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/NumbersDialog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/NumbersPrintln.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CP2406Pracs/SalaryDialog.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cp2406_farrell8_ch02" afterPath="$PROJECT_DIR$/cp2406_farrell8_ch02" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cp2406_farrell8_ch03" afterPath="$PROJECT_DIR$/cp2406_farrell8_ch03" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cp2406_farrell8_ch04" afterPath="$PROJECT_DIR$/cp2406_farrell8_ch04" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CP2406Pracs.iml" afterPath="$PROJECT_DIR$/CP2406Pracs.iml" />
     </list>
     <ignored path="CP2406Pracs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -119,6 +91,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="CP2406Pracs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CP2406Pracs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CP2406Pracs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
